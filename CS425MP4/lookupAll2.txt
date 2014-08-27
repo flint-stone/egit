@@ -1,0 +1,300 @@
+hashed key:628670
+CS425 rocks! We love MP!
+Query time: 65 milliseconds
+hashed key:305179
+123456789
+Query time: 27 milliseconds
+hashed key:702355
+Nihao
+Query time: 19 milliseconds
+hashed key:411463
+CS425 rocks! We love MP!
+Query time: 19 milliseconds
+hashed key:74614
+Everybody gets A!
+Query time: 39 milliseconds
+hashed key:158910
+Nihao
+Query time: 24 milliseconds
+hashed key:305625
+CS425 rocks! We love MP!
+Query time: 18 milliseconds
+hashed key:120196
+hello world!
+Query time: 28 milliseconds
+hashed key:82559
+Everybody gets A!
+Query time: 42 milliseconds
+hashed key:525821
+Nihao
+Query time: 25 milliseconds
+hashed key:619713
+CS425 rocks! We love MP!
+Query time: 26 milliseconds
+hashed key:491358
+Everybody gets A!
+Query time: 16 milliseconds
+hashed key:31457
+CS425 rocks! We love MP!
+Query time: 15 milliseconds
+hashed key:481774
+Everybody gets A!
+Query time: 20 milliseconds
+hashed key:411320
+Everybody gets A!
+Query time: 31 milliseconds
+hashed key:556192
+hello world!
+Query time: 21 milliseconds
+hashed key:360039
+CS425 rocks! We love MP!
+Query time: 27 milliseconds
+hashed key:411069
+hello world!
+Query time: 34 milliseconds
+hashed key:496169
+hello world!
+Query time: 20 milliseconds
+hashed key:135803
+Nihao
+Query time: 20 milliseconds
+hashed key:248839
+Nihao
+Query time: 16 milliseconds
+hashed key:233048
+hello world!
+Query time: 26 milliseconds
+hashed key:159348
+Nihao
+Query time: 21 milliseconds
+hashed key:556635
+Everybody gets A!
+Query time: 30 milliseconds
+hashed key:906109
+CS425 rocks! We love MP!
+Query time: 395 milliseconds
+hashed key:651818
+Nihao
+Query time: 18 milliseconds
+hashed key:340419
+hello world!
+Query time: 35 milliseconds
+hashed key:40960
+123456789
+Query time: 13 milliseconds
+hashed key:673408
+123456789
+Query time: 1079 milliseconds
+hashed key:498235
+Nihao
+Query time: 26 milliseconds
+hashed key:284580
+123456789
+Query time: 28 milliseconds
+hashed key:690266
+hello world!
+Query time: 37 milliseconds
+hashed key:527094
+hello world!
+Query time: 18 milliseconds
+hashed key:767845
+123456789
+Query time: 20 milliseconds
+hashed key:642779
+hello world!
+Query time: 53 milliseconds
+hashed key:423891
+CS425 rocks! We love MP!
+Query time: 84 milliseconds
+hashed key:861412
+123456789
+Query time: 35 milliseconds
+hashed key:542073
+CS425 rocks! We love MP!
+Query time: 22 milliseconds
+hashed key:684056
+123456789
+Query time: 29 milliseconds
+hashed key:695589
+Everybody gets A!
+Query time: 62 milliseconds
+hashed key:336985
+Nihao
+Query time: 26 milliseconds
+hashed key:452704
+Nihao
+Query time: 30 milliseconds
+hashed key:590747
+CS425 rocks! We love MP!
+Query time: 23 milliseconds
+hashed key:432066
+Everybody gets A!
+Query time: 405 milliseconds
+hashed key:118114
+CS425 rocks! We love MP!
+Query time: 395 milliseconds
+hashed key:601476
+Everybody gets A!
+Query time: 220 milliseconds
+hashed key:103069
+Everybody gets A!
+Query time: 26 milliseconds
+hashed key:585022
+Everybody gets A!
+Query time: 36 milliseconds
+hashed key:831279
+CS425 rocks! We love MP!
+Query time: 21 milliseconds
+hashed key:928548
+Nihao
+Query time: 27 milliseconds
+hashed key:921689
+Everybody gets A!
+Query time: 35 milliseconds
+hashed key:130847
+Nihao
+Query time: 23 milliseconds
+hashed key:215613
+Everybody gets A!
+Query time: 28 milliseconds
+hashed key:738101
+123456789
+Query time: 29 milliseconds
+hashed key:277695
+123456789
+Query time: 80 milliseconds
+hashed key:610637
+Everybody gets A!
+Query time: 22 milliseconds
+hashed key:318497
+123456789
+Query time: 25 milliseconds
+hashed key:511638
+Everybody gets A!
+Query time: 24 milliseconds
+hashed key:151589
+Nihao
+Query time: 40 milliseconds
+hashed key:400803
+123456789
+Query time: 20 milliseconds
+hashed key:454947
+CS425 rocks! We love MP!
+Query time: 126 milliseconds
+hashed key:682354
+CS425 rocks! We love MP!
+Query time: 22 milliseconds
+hashed key:98376
+CS425 rocks! We love MP!
+Query time: 20 milliseconds
+hashed key:539328
+hello world!
+Query time: 23 milliseconds
+hashed key:605126
+123456789
+Query time: 16 milliseconds
+hashed key:498052
+CS425 rocks! We love MP!
+Query time: 34 milliseconds
+hashed key:4341
+Everybody gets A!
+Query time: 35 milliseconds
+hashed key:679064
+CS425 rocks! We love MP!
+Query time: 25 milliseconds
+hashed key:960267
+hello world!
+Query time: 258 milliseconds
+hashed key:574904
+CS425 rocks! We love MP!
+Query time: 495 milliseconds
+hashed key:987909
+hello world!
+Query time: 8 milliseconds
+hashed key:700523
+Everybody gets A!
+Query time: 58 milliseconds
+hashed key:275357
+123456789
+Query time: 58 milliseconds
+hashed key:49312
+Everybody gets A!
+Query time: 12 milliseconds
+hashed key:936155
+CS425 rocks! We love MP!
+Query time: 1032 milliseconds
+hashed key:583682
+123456789
+Query time: 34 milliseconds
+hashed key:725053
+hello world!
+Query time: 38 milliseconds
+hashed key:585023
+hello world!
+Query time: 21 milliseconds
+hashed key:594969
+Nihao
+Query time: 17 milliseconds
+hashed key:133345
+Everybody gets A!
+Query time: 23 milliseconds
+hashed key:534469
+Nihao
+Query time: 58 milliseconds
+hashed key:569
+Nihao
+Query time: 17 milliseconds
+hashed key:429726
+CS425 rocks! We love MP!
+Query time: 21 milliseconds
+hashed key:56673
+Nihao
+Query time: 11 milliseconds
+hashed key:922938
+Everybody gets A!
+Query time: 28 milliseconds
+hashed key:725469
+123456789
+Query time: 21 milliseconds
+hashed key:264230
+Nihao
+Query time: 24 milliseconds
+hashed key:782140
+123456789
+Query time: 20 milliseconds
+hashed key:220950
+Everybody gets A!
+Query time: 24 milliseconds
+hashed key:976425
+Nihao
+Query time: 35 milliseconds
+hashed key:564436
+Everybody gets A!
+Query time: 37 milliseconds
+hashed key:585142
+123456789
+Query time: 83 milliseconds
+hashed key:237930
+Nihao
+Query time: 41 milliseconds
+hashed key:59884
+CS425 rocks! We love MP!
+Query time: 16 milliseconds
+hashed key:37675
+hello world!
+Query time: 10 milliseconds
+hashed key:199261
+Everybody gets A!
+Query time: 46 milliseconds
+hashed key:252169
+Nihao
+Query time: 43 milliseconds
+hashed key:874228
+123456789
+Query time: 43 milliseconds
+hashed key:622454
+CS425 rocks! We love MP!
+Query time: 162 milliseconds
+hashed key:905732
+123456789
+Query time: 126 milliseconds
